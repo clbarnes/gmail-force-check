@@ -1,0 +1,7 @@
+{
+  "to_list": ["add@emails.here", "and@another.one"],
+  "smtp_address": "smtp.gmail.com",
+  "from_username": "your.address.here@gmail.com",
+  "from_suffix": "gmail.force.check",
+  "enc_password": "your_b64_encrypted_password"
+}
